@@ -1,0 +1,27 @@
+
+#agentsAjoutDateEntree {
+    color: #777777;
+
+}
+.agentsFemmes, .agentsHommes{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+}
+.agentsFemmes {
+    background-color: #EC808D;
+}
+.agentsHommes {
+    background-color: #81D3F8;
+}
+
+.agentsDansGroupe {
+    font-size: 150px;
+}
+.agentsDansGroupePhrase{
+    font-size: 40px;
+}
+

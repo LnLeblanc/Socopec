@@ -1,0 +1,41 @@
+
+
+
+
+#first-actu {
+    margin-right: 70px;
+}
+
+.agencesVehiculesVendusMois{
+    font-family: 'Segoe UI Semibold', serif;
+    font-size: 150px;
+}
+.agencesVehiculesVendusMoisPrec{
+    font-family: 'Segoe UI Semibold', serif;
+    font-size: 20px;
+}
+.agencesVehiculesVendusMoisPhrase{
+    margin-top: 0;
+    font-family: 'Segoe UI Regular', serif;
+    font-size: 30px;
+}
+.agencesVehiculesVendusAnnee{
+    font-family: 'Segoe UI Semibold', serif;
+    font-size: 50px;
+}
+.agencesVehiculesVendusAnneePrec{
+    font-family: 'Segoe UI Semibold', serif;
+    font-size: 15px;
+}
+.agencesVehiculesVendusAnneePhrase{
+    font-family: 'Segoe UI Regular', serif;
+    font-size: 20px;
+}
+.agencesNbFrance{
+    font-family: 'Segoe UI Semibold', serif;
+    font-size: 50px;
+}
+.agencesNbFrancePhrase{
+    font-family: 'Segoe UI Regular', serif;
+    font-size: 20px;
+}
